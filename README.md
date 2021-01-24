@@ -8,4 +8,4 @@
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=CookieGamer733) <br/>
-![Metrics](https://github.com/CookieGamer733/CookieGamer733/blob/master/github-metrics.svg)
+![Metrics](https://github.com/CookieGamer733/CookieGamer733/blob/main/github-metrics.svg)

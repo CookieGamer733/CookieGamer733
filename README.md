@@ -1,11 +1,11 @@
-## Hi 👋, I'm Nimplex<br/>
-**A backend developer from Poland**<br/>
-[Contact](https://nimplex.xyz/contact):
+## Hi 👋, I'm CookieGamer733<br/>
+**A full-stack developer from America**<br/>
+[Contact](https://cookiegamer733.repl.co/contact):
 ```json
-1. Discord: Nimplex#6232
-2. Twitter: @Nimplexy
-3. Website: https://nimplex.xyz
+1. Discord: CookieGamer733#7677
+2. Twitter: @CookieGamer733
+3. Website: https://cookiegamer733.repl.co/
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=Nimplex) <br/>
-![Metrics](https://github.com/Nimplex/Nimplex/blob/master/github-metrics.svg)
+![Profile views](https://komarev.com/ghpvc/?username=CookieGamer733) <br/>
+![Metrics](https://github.com/CookieGamer733/CookieGamer733/blob/master/github-metrics.svg)

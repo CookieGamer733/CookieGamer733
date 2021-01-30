@@ -1,6 +1,6 @@
 ## Hi 👋, I'm CookieGamer733<br/>
 **A full-stack developer from America**<br/>
-[Contact](https://cookiegamer733.repl.co/contact):
+[Contact](https://cookiegamer733.repl.co/#contact):
 ```json
 1. Discord: CookieGamer733#7677
 2. Twitter: @CookieGamer733
